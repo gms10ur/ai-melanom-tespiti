@@ -75,7 +75,7 @@ tifffile==2020.2.16
 timm==0.1.30
 tokenizers==0.5.2
 toolz==0.10.0
-torch==1.6.0
+torch==1.7.0
 torchfile==0.1.0
 torchvision==0.7.0
 tornado==6.0.4
